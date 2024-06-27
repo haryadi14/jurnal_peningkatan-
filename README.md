@@ -22,3 +22,6 @@ e.	Pengujian dan Evaluasi
   a.	Internal Testing: Lakukan pengujian awal di lingkungan tertutup untuk memastikan bahwa bot bekerja sesuai dengan rencana.
   b.	Beta Testing: Uji bot dengan sekelompok pengguna terbatas untuk mendapatkan umpan balik awal.
   c.	Iterasi Perbaikan: Berdasarkan umpan balik dari pengujian, lakukan perbaikan dan penyesuaian pada bot.
+## Diagram Metodologi Penelitian
+   ![image](https://github.com/haryadi14/jurnal_peningkatan-/blob/master/FLOW%20CHART%20TA.drawio.png?raw=true)  
+
