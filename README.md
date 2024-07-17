@@ -13,4 +13,29 @@ Pengalaman pengguna (UX) adalah salah satu faktor terpenting dalam menciptakan s
 
 ## Diagram Metodologi Penelitian
    ![image](https://github.com/haryadi14/jurnal_peningkatan-/blob/master/FLOW%20CHART%20TA.drawio.png?raw=true)  
+Tahapan yang dilakukan pada penelitian ini dapat dirinci sebagai berikut:
+1.	Analisis Kebutuhan
+a.	Mengidentifikasi tujuan chatbot dan kebutuhan pengguna.
+b.	Menentukan fitur yang diperlukan untuk mencapai tujuan tersebut.
+2.	Pemetaan Proses Bisnis
+a.	Mengidentifikasi dan merinci proses layanan yang akan diotomatisasi.
+b.	Membuat alur kerja untuk setiap proses layanan.
+3.	Alur Percakapan
+a.	Merancang alur percakapan bot yang intuitif.
+b.	Menentukan respons bot untuk berbagai input pengguna.
+c.	Menyusun skenario fallback untuk input yang tidak dipahami.
+4.	Pengembangan Bot 
+a.	Mengatur platform WhatsAuth untuk interaksi dengan WhatsApp API.
+b.	Mengembangkan skrip bot dengan bahasa pemrograman yang sesuai.
+c.	Mengintegrasikan bot dengan API WhatsApp melalui WhatsAuth.
+5.	Pengujian dan Evaluasi
+a.	Melakukan pengujian awal dan beta testing dengan pengguna terbatas.
+b.	Mengumpulkan umpan balik dan melakukan iterasi perbaikan.
+6.	Implementasi dan Peluncuran
+a.	Meluncurkan bot di lingkungan produksi.
+b.	Memantau performa bot secara berkala.
+7.	Evaluasi 
+a.	Evaluasi chatbot untuk perbaikan dan penambahan fitur.
+
+
 
