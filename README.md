@@ -37,5 +37,14 @@ b.	Memantau performa bot secara berkala.
 7.	Evaluasi 
 a.	Evaluasi chatbot untuk perbaikan dan penambahan fitur.
 
+## Hasil dan Pembahasan
+Berikut adalah hasil implementasi chatbot yang dibuat. Dibawah ini adalah keyword yang tersedia pada chatbot :
+![image]([https://github.com/haryadi14/jurnal_peningkatan-/blob/master/FLOW%20CHART%20TA.drawio.png](https://github.com/haryadi14/jurnal_peningkatan-/blob/master/Capture.PNG?raw=true)  
+1.	Minta Persyaratan PDM. Keyword ini digunakan untuk meminta informasi mengenai persyaratan perubahan data mahasiswa.
+2.	Minta Persyaratan PDMK. Keyword ini digunakan untuk meminta informasi mengenai persyaratan perubahan data mahasiswa jenis keluar.
+3.	Minta Persyaratan Validasi Ijazahi. Keyword ini digunakan untuk meminta informasi mengenai persyaratan untuk memvalidasi ijazah mahasiswa.
+4.	Minta Persyaratan NIDN. Keyword ini digunakan untuk meminta informasi mengenai persyaratan registrasi dosen baru untuk mendapatkan Nomor Induk Dosen Nasional (NIDN).
+5.	Minta Dokumen Panduan. Keyword ini digunakan untuk meminta dokumen panduan terkait berbagai prosedur dan layanan.
+
 
 
